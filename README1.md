@@ -50,10 +50,10 @@ this procedure is also simple.
   
   you can skip the steps 7. and 8. by using git commit -a -m "/*commit message*/
   
-  ##9.now to push the changes made in local repository to remote repository use git push -u origin master
+  ## 9.now to push the changes made in local repository to remote repository use git push -u origin master
   
   now checkout the file in your remote repo you will see the changes.
   
-  ##10.to add it to this file create a new pull request which is visible at the top and create a new pull request.
+  ## 10.to add it to this file create a new pull request which is visible at the top and create a new pull request.
   
-  u can use 
+  u can use Github
