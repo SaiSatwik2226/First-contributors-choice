@@ -1,13 +1,12 @@
 # Anyone who want's to start , start now.
 ----
 
-# If you dont have a Git
+# If you dont have a Git,
 |<a href="https://git-scm.com/downloads" target="_blank"><img alt="Git" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="100"></a>|
 |---|
 |[Git](https://git-scm.com/downloads)|
 
-
-[git](https://git-scm.com/downloads) in your PC download and install it.
+Don't have [git](https://git-scm.com/downloads) in your PC download and install it.
 the procedure is very simple click on next and install with the given conditions approved.
 ----
 ## Next create an account in [Github](https://github.com/) using your mail address.
