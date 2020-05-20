@@ -2,7 +2,7 @@
 ----
 
 # If you dont have a Git
-|<a/><img alt="Git" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="100"></a>|
+|<a href="https://git-scm.com/downloads" target="_blank"><img alt="Git" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="100"></a>|
 |---|
 |[Git](https://git-scm.com/downloads)|
 
